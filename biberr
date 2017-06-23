@@ -1,0 +1,66 @@
+Lin:2015   
+  problem with commas in author: {Lin, Rui, Liu, Shujie, Yang, Muyun, Li, Mu, Zhou, Ming, and Li, Sheng}
+Li:2014b   
+  problem with commas in author: "Li, Jessy Junyi and Carpuat, Marine and Nenkova, Ani", title="Cross-lingual Discourse Relation Analysis: A corpus study and a semi-supervised classification system", booktitle="Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics: Technical Papers", year="2014", publisher="Dublin City University and Association for Computational Linguistics", pages="577--587", location="Dublin, Ireland", url="http://aclweb.org/anthology/C14-1055"
+LapshinovaPal:2014:BUCC   
+  space in url
+LapshinovaPal:2014:BUCC   
+  duplicate key LapshinovaPal:2014:BUCC
+  space in url
+LapshinovaKunz:2014:ISA   
+  space in url
+LapshinovaKunz:2014:ISA   
+  duplicate key LapshinovaKunz:2014:ISA
+  space in url
+LapshinovaEtal2012   
+  problem with commas in editor: {Heliana Mello, Massimo Pettorino, Tommaso Raso}
+Lapshinova2008euralex   
+  duplicate key Lapshinova2008euralex
+TeichEtAl2015   
+  problem with commas in author: {Teich, Elke and Degaetano-Ortlieb, Stefania Lapshinova-Koltunski, Ekaterina and Kermes, Hannah}
+  missing pages
+SleGeccoForthcoming   
+  missing pages
+  missing address
+LapshinovaKunz2014   
+  missing address
+LapshinovaForthcoming   
+  missing pages
+  missing address
+LapshinovaEtAl2013   
+  missing address
+Lapshinova2015EST   
+  missing address
+KunzLapshinova2014:Erich   
+  missing publisher
+KunzLapshinova2011   
+  missing publisher
+  missing address
+DegaetanoEtAl2013   
+  missing address
+Degaetano2012   
+  missing pages
+  missing address
+Mason:1990   
+  missing address
+Lapshinova2011diss   
+  missing address
+Doherty2004   
+  missing address
+  missing publisher
+Baayen2008   
+  missing address
+TeichEtAl2015   
+  duplicate key TeichEtAl2015
+  {http://dx.doi.org/10.1002/asi.23457}: urls should only be given for true repositories or for material not available elsewhere
+  missing volume
+MenzelLapshinova2014   
+  missing volume
+  missing pages
+Lapshinova2010   
+  missing pages
+Lapshinova2009journal   
+  missing volume
+  missing pages
+Bisiada2014   
+  missing pages

@@ -1,0 +1,68 @@
+anaphora
+classifier
+cluster label       
+collocation
+compound
+compound splitter   
+contextual boundness    
+coreference   
+coreferential analysis     
+coreferential chain    
+correlation
+Czech
+demonstrative pronoun      
+discourse marker    
+entity grid       
+entity-based coherence    
+evaluation
+experiment
+explicitation
+extraction
+feature selection    
+French
+genre
+German
+grammaticalization
+information structure    
+interference
+interlingual variation     
+language variety    
+learner
+lexical chain    
+lexical coherence    
+lexical cohesion    
+machine translation    
+modifier
+monolingual setting    
+multilingual corpus    
+multiword expressions
+normalisation
+parallel corpus       
+part-of-speech
+PDTB 
+reference corpus     
+referential expression    
+register
+Russian
+semi-automated process   
+semi-automatic method    
+sentence boundary    
+sentence length      
+significance analysis    
+source language      
+source text      
+standard language    
+subordinate conjunction    
+target language     
+target text     
+term candidate       
+term variant       
+terminological variation   
+terminology
+text fluency    
+translation corpus       
+translation quality    
+translationese   
+Treebank
+TTR
+WMT
